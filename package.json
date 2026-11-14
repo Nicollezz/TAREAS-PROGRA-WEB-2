@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio-clases",
+  "version": "1.0.0",
+  "description": "Ejercicio de clases",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
